@@ -1,2 +1,3 @@
 # ARM_Program
-It is a repository that I am learning ARM microcontroller to write codes and userful learning materials.
+1.It is a repository that I am learning ARM(S3C2440) microcontroller to write codes and userful learning materials.
+
